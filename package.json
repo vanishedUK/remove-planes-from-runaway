@@ -1,0 +1,23 @@
+{
+  "name": "remove-planes-from-runaway",
+  "version": "1.0.0",
+  "description": "This is the starter code for Week 5 Day 5 Activity 2",
+  "main": "Runway.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MultiverseLearningProducts/remove-planes-from-runaway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MultiverseLearningProducts/remove-planes-from-runaway/issues"
+  },
+  "homepage": "https://github.com/MultiverseLearningProducts/remove-planes-from-runaway#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
