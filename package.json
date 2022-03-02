@@ -4,7 +4,7 @@
   "description": "This is the starter code for Week 5 Day 5 Activity 2",
   "main": "Runway.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
