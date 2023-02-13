@@ -15,4 +15,14 @@ class Runway {
         }
         Runway.planes.push(plane)
     }
+
+    remove(plane) {
+        let index = Runway.planes.indexOf(plane);
+
+        if (index !== -1) {
+            Runway.planes.splice(index, 1);
+        }
+    }
 }
+
+module.exports = Runway;
